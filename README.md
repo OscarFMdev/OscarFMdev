@@ -5,7 +5,7 @@ I'm Oscar, I enjoy meeting new people, collaborating, and learning new things da
 Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning web development 
-- 📫 How to reach me: oscarfernandezm95@gmail.com 
+- 📫 How to reach me: oscarfmdev@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OscarFM95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscarfm95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oscar_fm12/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Oscar_FM95)  <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Qs80aik-nKj374CInpChYw) -->  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/oscarfernandezm95/sites)  
