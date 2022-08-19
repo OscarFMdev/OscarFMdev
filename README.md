@@ -12,16 +12,16 @@ Skills: REACT / JS / HTML / CSS
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OscarFM95)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OscarFM-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFM95)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFM-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarFM95&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarFM-dev&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OscarFM95)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OscarFM-dev)  
 
-![GitHub metrics](https://metrics.lecoq.io/OscarFM95)  
+![GitHub metrics](https://metrics.lecoq.io/OscarFM-dev)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OscarFM95)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OscarFM-dev)  
 
-![Profile views](https://gpvc.arturio.dev/OscarFM95)  
+![Profile views](https://gpvc.arturio.dev/OscarFM-dev)  
