@@ -18,7 +18,7 @@ Skills: REACT / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarFM-dev&show_icons=true&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OscarFMdev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OscarFM-dev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/OscarFM-dev)  
 
