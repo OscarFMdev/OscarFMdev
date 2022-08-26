@@ -13,8 +13,6 @@ Skills: REACT / JS / HTML / CSS
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OscarFM-dev)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFM-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarFM-dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFM-dev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
