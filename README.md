@@ -20,6 +20,6 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/OscarFM-dev)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OscarFM-dev)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OscarFM-dev&theme=github-dark)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=OscarFM-dev&color=blue)
