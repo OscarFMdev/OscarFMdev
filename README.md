@@ -4,7 +4,6 @@ I'm Oscar, I enjoy meeting new people, collaborating, and learning new things da
 
 Skills: REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning web development 
 - 📫 How to reach me: oscarfmdev@gmail.com
 
 
