@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oscar Fernández Muñoz
 #### Web development
-I'm Oscar, I enjoy meeting new people, collaborating, and learning new things daily. I'm currently learning web development, I use HTML, CSS, and JS. I've learned some basic React and Node.js projects on my own. I'll be happy to receive a message from you on my LinkedIn account: https://www.linkedin.com/in/oscarfm-dev/ or my Twitter account: https://twitter.com/OscarFMdev
+I'm Oscar, I enjoy meeting new people, collaborating, and learning new things daily.I use HTML, CSS, JS, React and Node.js. I'll be happy to receive a message from you!
 
 Skills: REACT / JS / HTML / CSS
 
