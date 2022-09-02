@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Oscar Fernández Muñoz
-#### Web developer
+#### Web development
 I'm Oscar, I enjoy meeting new people, collaborating, and learning new things daily.I use HTML, CSS, JS, React and Node.js. I'll be happy to receive a message from you!
 
 Skills: REACT / JS / HTML / CSS
