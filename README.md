@@ -1,29 +1,29 @@
+<h1 align="center">Hi 👋, I'm Oscar Fernández Muñoz</h1>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarfmdev&label=Profile%20views&color=0e75b6&style=flat" alt="oscarfmdev" /> </p>
 
-### Hi there 👋, my name is Oscar Fernández Muñoz
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarfmdev" alt="oscarfmdev" /></a> </p>
 
-#### Web development
-I'm Oscar, I enjoy meeting new people, collaborating, and learning new things daily.I use HTML, CSS, JS, React and Node.js. I'll be happy to receive a message from you!
-https://img.shields.io/github/followers/OscarFMdev?label=Follow&style=social
+<p align="left"> <a href="https://twitter.com/oscarfmdev" target="blank"><img src="https://img.shields.io/twitter/follow/oscarfmdev?logo=twitter&style=for-the-badge" alt="oscarfmdev" /></a> </p>
 
-Skills: REACT / JS / HTML / CSS
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 📫 How to reach me: oscarfmdev@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/oscarfmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscarfmdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscarfmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarfmdev" height="30" width="40" /></a>
+<a href="https://instagram.com/oscarfmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscarfmdev" height="30" width="40" /></a>
+<a href="https://medium.com/@oscarfmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oscarfmdev" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OscarFMdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscarfmdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oscardev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/OscarFMdev)  <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Qs80aik-nKj374CInpChYw) -->  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/oscarfernandezm95/sites)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarfmdev&show_icons=true&locale=en&layout=compact" alt="oscarfmdev" /></p>
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarfmdev&show_icons=true&locale=en" alt="oscarfmdev" /></p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OscarFMdev)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarFMdev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFMdev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OscarFMdev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub metrics](https://metrics.lecoq.io/OscarFMdev)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OscarFMdev&theme=github-dark)  
-
-![Profile views](https://komarev.com/ghpvc/?username=OscarFMdev&color=blue)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarfmdev&" alt="oscarfmdev" /></p>
