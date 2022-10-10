@@ -1,10 +1,10 @@
 
-https://img.shields.io/github/followers/OscarFMdev?label=Follow&style=social
-<p align="center>
+
 ### Hi there 👋, my name is Oscar Fernández Muñoz
-</p>
+
 #### Web development
 I'm Oscar, I enjoy meeting new people, collaborating, and learning new things daily.I use HTML, CSS, JS, React and Node.js. I'll be happy to receive a message from you!
+https://img.shields.io/github/followers/OscarFMdev?label=Follow&style=social
 
 Skills: REACT / JS / HTML / CSS
 
