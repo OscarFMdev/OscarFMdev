@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oscar Fernández Muñoz</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarfmdev&label=Profile%20views&color=0e75b6&style=flat" alt="oscarfmdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarfmdev" alt="oscarfmdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarfmdev&theme=onedark&column=3" alt="oscarfmdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/oscarfmdev" target="blank"><img src="https://img.shields.io/twitter/follow/oscarfmdev?logo=twitter&style=for-the-badge" alt="oscarfmdev" /></a> </p>
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
