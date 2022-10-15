@@ -1,3 +1,4 @@
+ ![](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Oscar Fernández Muñoz</h1>
 <h3 align="center">A passionate full-stack developer from Mexico</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarfmdev&label=Profile%20views&color=0e75b6&style=flat" alt="oscarfmdev" /> </p>
