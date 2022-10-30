@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/oscarfmdev" target="blank"><img src="https://img.shields.io/twitter/follow/oscarfmdev?logo=twitter&style=for-the-badge" alt="oscarfmdev" /></a> </p>
 
 
-<!-- ### Blogs posts -->
+### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
