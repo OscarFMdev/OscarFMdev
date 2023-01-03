@@ -1,6 +1,5 @@
  ![](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />, I'm Oscar Fernández Muñoz</h1>
-
 <h3 align="center">I am a full-stack developer from Mexico!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oscarfmdev&label=Profile%20views&color=0e75b6&style=flat" alt="oscarfmdev" /> </p>
